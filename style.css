@@ -1,8 +1,30 @@
-h1{
+h1 {
     text-align: center;
 }
-
-.container{
-    background-color: yellowgreen;
-
+#firstChoice:hover{
+    background:rgb(14, 13, 13);
+    border: 1px solid rgb(172, 103, 143);
+    font-size:30px; 
+}
+#firstChoice{
+    text-align: center;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    border: 1px solid #1e9935a6;
+    background: rgb(24, 75, 137);
+    color: #ffffffec;
+    font-size: 24px;
+    font-family: 'Motlleg Fantasy', sans-serif;
+    line-height: 20px;
+    padding: 16px 30px;
+    border-radius: 30px;
+    box-shadow: rgba(143, 165, 108, 0.572) 0px 8px 8px 0;
+    cursor: pointer;
+}
+h5 {
+    text-align: center;
+    border: 5px solid black;
+}
+color{
+    background-color: aqua;
 }
